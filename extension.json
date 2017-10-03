@@ -2,7 +2,7 @@
     "name": "CMSFrontend",
     "version": "0.0.1",
     "author": [
-        "Wolfgang Fahl"
+        "[https://www.semantic-mediawiki.org/wiki/User:WolfgangFahl Wolfgang Fahl] for [http://wikicms.bitplan.com BITPlan WikiCMS]"
     ],
     "url": "https://www.mediawiki.org/wiki/Extension:CMSFrontend",
     "namemsg": "cMSFrontend",

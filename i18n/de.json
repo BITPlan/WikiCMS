@@ -5,7 +5,7 @@
         ]
     },
     "cMSFrontend": "CMSFrontend",
-    "cMSFrontend-desc": "Hides your mediawiki behind a frontend so that you can use it as a Content Mangement System. Adds [[Special:CMSFrontend]] for configuration.",
+    "cMSFrontend-desc": "Verbirgt Ihr Mediawiki hinter einem frontend, um es als Content Mangement System zu nutzen. Fügt [[Special:CMSFrontend]] zum Konfigurieren hinzu.",
     "special-cMSFrontend-intro": "CMSFrontend",
     "special-cMSFrontend-title": "Content Management System Frontend"
 }
