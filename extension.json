@@ -1,0 +1,33 @@
+{
+    "name": "CMSFrontend",
+    "version": "0.0.1",
+    "author": [
+        "Wolfgang Fahl"
+    ],
+    "url": "https://www.mediawiki.org/wiki/Extension:CMSFrontend",
+    "namemsg": "cMSFrontend",
+    "descriptionmsg": "cMSFrontend-desc",
+    "license-name": "MIT",
+    "type": "other",
+    "manifest_version": 1,
+    "MessagesDirs": {
+        "CMSFrontend": [
+            "i18n"
+        ]
+    },
+    "AutoloadClasses": {
+        "SpecialCMSFrontend": "specials/SpecialCMSFrontend.php",
+        "CMSFrontendHooks": "Hooks.php"
+    },
+    "SpecialPages": {
+        "CMSFrontend": "SpecialCMSFrontend"
+    },
+    "ExtensionMessagesFiles": {
+        "CMSFrontendAlias": "CMSFrontend.alias.php"
+    },
+    "Hooks": {
+        "EditFilter": [
+            "CMSFrontendHooks::onEditFilter"
+        ]
+    }
+}

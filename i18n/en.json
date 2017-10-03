@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Wolfgang Fahl"
+        ]
+    },
+    "cMSFrontend": "CMSFrontend",
+    "cMSFrontend-desc": "Hides your mediawiki behind a frontend so that you can use it as a Content Mangement System.",
+    "special-cMSFrontend-intro": "CMSFrontend",
+    "special-cMSFrontend-title": "Content Management System Frontend"
+}

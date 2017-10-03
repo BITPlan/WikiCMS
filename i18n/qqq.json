@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Wolfgang Fahl"
+        ]
+    },
+    "cMSFrontend": "The name of the extension",
+    "cMSFrontend-desc": "{{desc|name=CMSFrontend|url=https://www.mediawiki.org/wiki/Extension:CMSFrontend}}",
+    "special-cMSFrontend-intro": "Description appearing on top of <tvar|1>Special:{{ll|CMSFrontend}}</>.",
+    "special-cMSFrontend-title": "Title of the special page Special:CMSFrontend"
+}
